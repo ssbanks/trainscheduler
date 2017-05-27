@@ -1,0 +1,296 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/shirlonbanks/Desktop/test-project.html",
+		"/Users/shirlonbanks/Desktop/5-20timesheetLogic.js",
+		"/Users/shirlonbanks/Desktop/5-20timesheet.html",
+		"/Users/shirlonbanks/Desktop/5-20momentjs.html",
+		"/Users/shirlonbanks/github/codingbootcamp/assignments/week6/giftastic/assets/css/reset.css",
+		"/Users/shirlonbanks/github/codingbootcamp/assignments/week6/giftastic/index.html",
+		"/Users/shirlonbanks/Desktop/logic1.js",
+		"/Users/shirlonbanks/Desktop/inclass-5-17.html",
+		"/Users/shirlonbanks/Desktop/logic.js",
+		"/Users/shirlonbanks/Desktop/inclass-5-15.html",
+		"/Users/shirlonbanks/Desktop/inclass5-13.html",
+		"/Users/shirlonbanks/Desktop/nytapp.js",
+		"/Users/shirlonbanks/Desktop/NYT-App",
+		"/Users/shirlonbanks/Desktop/inclass-5-8.html",
+		"/Users/shirlonbanks/Downloads/stopwatch.js",
+		"/Users/shirlonbanks/Downloads/stopwatch.html",
+		"/Users/shirlonbanks/Desktop/inclass-5-3.html",
+		"/Users/shirlonbanks/Downloads/style.css",
+		"/Users/shirlonbanks/github/codingbootcamp/assignments/week4/week-4-game/assets/css/reset.css",
+		"/Users/shirlonbanks/Desktop/inclass-4-29.html",
+		"/Users/shirlonbanks/Desktop/inClass-4-26.js",
+		"/Users/shirlonbanks/Desktop/InClass 4-26.html",
+		"/Users/shirlonbanks/github/codingbootcamp/assignments/week3/Hangman-Game/index.html",
+		"/Users/shirlonbanks/github/codingbootcamp/assignments/week3/Psychic-Game/assets/javascript/game.js",
+		"/Users/shirlonbanks/Desktop/game.js",
+		"/Users/shirlonbanks/Desktop/practice.html",
+		"/Users/shirlonbanks/Desktop/inclass4-24.html",
+		"/Users/shirlonbanks/Desktop/inclass4-22.html",
+		"/Users/shirlonbanks/github/codingbootcamp/assignments/week2/Bootstrap-Portfolio/index.html",
+		"/Users/shirlonbanks/github/codingbootcamp/assignments/week2/Bootstrap-Portfolio/assets/css/style.css",
+		"/Users/shirlonbanks/github/codingbootcamp/assignments/week2/Bootstrap-Portfolio/portfolio.html",
+		"/Users/shirlonbanks/github/codingbootcamp/assignments/week2/Bootstrap-Portfolio/contact.html",
+		"/Users/shirlonbanks/Desktop/inclass4:19.html",
+		"/Users/shirlonbanks/Desktop/inclass4-17.html",
+		"/Users/shirlonbanks/github/codingbootcamp/assignments/week2/Responsive-Portfolio/assets/css/reset.css",
+		"/Users/shirlonbanks/github/codingbootcamp/assignments/week2/Responsive-Portfolio/contact.html",
+		"/Users/shirlonbanks/github/codingbootcamp/assignments/week2/Responsive-Portfolio/portfolio.html",
+		"/Users/shirlonbanks/github/codingbootcamp/assignments/week2/Responsive-Portfolio/index.html",
+		"/Users/shirlonbanks/github/codingbootcamp/assignments/week1/Basic-Portfolio/contact.html",
+		"/Users/shirlonbanks/github/codingbootcamp/assignments/week1/Basic-Portfolio/index.html",
+		"/Users/shirlonbanks/github/codingbootcamp/assignments/week1/Basic-Portfolio/portfolio.html",
+		"/Users/shirlonbanks/Desktop/typo.html",
+		"/Users/shirlonbanks/Desktop/typo.css",
+		"/Users/shirlonbanks/biography/frontend/index.html",
+		"/Users/shirlonbanks/github/codingbootcamp/assignments/week1/HW-Wireframe/style.css",
+		"/Users/shirlonbanks/github/codingbootcamp/assignments/week1/HW-Wireframe/index.html",
+		"/Users/shirlonbanks/Bootcamp-Assignments/Week1/Sat, April 8, 2017/5-CSS_Positioned_Activity/SOLVED/positioning.css",
+		"/Users/shirlonbanks/Bootcamp-Assignments/Week1/Sat, April 8, 2017/5-CSS_Positioned_Activity/SOLVED/positioning.html",
+		"/Users/shirlonbanks/Bootcamp-Assignments/Week1/Sat, April 8, 2017/5-CSS_Positioned_Activity/MyAttempt/style.css",
+		"/Users/shirlonbanks/Bootcamp-Assignments/Week1/Sat, April 8, 2017/5-CSS_Positioned_Activity/MyAttempt/index.html",
+		"/Users/shirlonbanks/Bootcamp Assignments/Week 1/Sat, April 8, 2017/3- Float BuildWireframe/floats.css",
+		"/Users/shirlonbanks/Bootcamp Assignments/Week 1/Sat, April 8, 2017/4-CSS_PositionedLayout/main.html",
+		"/Users/shirlonbanks/Bootcamp Assignments/Week 1/Sat, April 8, 2017/3- Float BuildWireframe/3-FloatActivity_1.png",
+		"/Users/shirlonbanks/Bootcamp Assignments/Week 1/Sat, April 8, 2017/3- Unsolved BuildWireframe/floats.css",
+		"/Users/shirlonbanks/Downloads/RelativePaths_UNSOLVED/RelativePaths_2/html-bio.html",
+		"/Users/shirlonbanks/Downloads/RelativePaths_UNSOLVED/RelativePaths_3/html-bio.html",
+		"/Users/shirlonbanks/Downloads/RelativePaths_UNSOLVED/RelativePaths_4/HTML/html-bio.html",
+		"/Users/shirlonbanks/biography/frontend/css/index.css",
+		"/Users/shirlonbanks/front/index.html",
+		"/Users/shirlonbanks/Desktop/Portfolio Site/style.css",
+		"/Users/shirlonbanks/Desktop/index.html",
+		"/Users/shirlonbanks/Documents/Coding Boot Camp/Homework/Week 4/InClass/Wed, Feb. 1, 2017/fridge-solved.html",
+		"/Users/shirlonbanks/Downloads/class4/myscript.js",
+		"/Users/shirlonbanks/Downloads/class4/index.html",
+		"/Users/shirlonbanks/Downloads/working-movie-app-easier.html",
+		"/Users/shirlonbanks/Documents/Coding Boot Camp/AJAX_API/SAT2-18-17/2-button-triggered-ajax-students.html",
+		"/Users/shirlonbanks/Documents/Coding Boot Camp/Week 6/Saturday_2-18-17/3-dynamic-elements-students.html",
+		"/Users/shirlonbanks/Documents/Coding Boot Camp/Week 6/Saturday_2-18-17/4-pausing-gifs-students.html",
+		"/Users/shirlonbanks/Documents/Coding Boot Camp/Week 6/Saturday_2-18-17/5 -NYT_inclass.js",
+		"/Users/shirlonbanks/Documents/Coding Boot Camp/AJAX_API/SAT2-18-17/01-cat-button-students.html",
+		"/Users/shirlonbanks/Documents/Coding Boot Camp/Homework/Week 1/HW Solution/Basic-Portfolio/portfolio.html",
+		"/Users/shirlonbanks/Documents/Coding Boot Camp/Homework/Week 1/HW Solution/Basic-Portfolio/index.html",
+		"/Users/shirlonbanks/Documents/Coding Boot Camp/Homework/Week 1/HW Solution/Basic-Portfolio/contact.html",
+		"/Users/shirlonbanks/Documents/Coding Boot Camp/Homework/Week 1/HW Solution/Basic-Portfolio/assets/css/style.css",
+		"/Users/shirlonbanks/Documents/Coding Boot Camp/Homework/Week 1/HW Solution/Basic-Portfolio/assets/css/reset.css",
+		"/Users/shirlonbanks/Downloads/01-cat-button-students.html",
+		"/Users/shirlonbanks/Downloads/1-customer-object.html",
+		"/Users/shirlonbanks/Downloads/bujumbura-solved.html",
+		"/Users/shirlonbanks/Downloads/bujumbura-easier.html",
+		"/Users/shirlonbanks/gitHubSourceCode/sourcecode/TriviaGame/assets/css/style.css",
+		"/Users/shirlonbanks/Downloads/simple-timer.html",
+		"/Users/shirlonbanks/gitHubSourceCode/sourcecode/TriviaGame/index.php",
+		"/Users/shirlonbanks/gitHubSourceCode/sourcecode/TriviaGame/composer.json",
+		"/Users/shirlonbanks/Downloads/4-giphy-api.html",
+		"/Users/shirlonbanks/Downloads/3-ajax-to-html-solution.html",
+		"/Users/shirlonbanks/Downloads/3-ajax-to-html.html",
+		"/Users/shirlonbanks/Downloads/bubble_sort/Visualization Exercises",
+		"/Users/shirlonbanks/gitHubSourceCode/sourcecode/TriviaGame/index.html",
+		"/Users/shirlonbanks/gitHubSourceCode/sourcecode/week-4-game/composer.json",
+		"/Users/shirlonbanks/gitHubSourceCode/sourcecode/week-4-game/index.php",
+		"/Users/shirlonbanks/gitHubSourceCode/sourcecode/week-4-game/Assets/css/style.css",
+		"/Users/shirlonbanks/gitHubSourceCode/sourcecode/week-4-game/Assets/javascript/game.js",
+		"/Users/shirlonbanks/Desktop/GameinClass/HW4Test.html",
+		"/Users/shirlonbanks/gitHubSourceCode/sourcecode/week-4-game/Assets/css/reset.css",
+		"/Users/shirlonbanks/Downloads/cups_and_ball/game.js",
+		"/Users/shirlonbanks/Desktop/GameinClass/hp hw4.html",
+		"/Users/shirlonbanks/gitHubSourceCode/sourcecode/Bootstrap-Portfolio/style.css",
+		"/Users/shirlonbanks/gitHubSourceCode/sourcecode/Bootstrap-Portfolio/contact.html",
+		"/Users/shirlonbanks/Desktop/GameinClass/script.js",
+		"/Users/shirlonbanks/Desktop/HWTest2.html",
+		"/Users/shirlonbanks/Desktop/GameinClass/$(document).ready(function() {",
+		"/Users/shirlonbanks/Desktop/ObjInClass.html",
+		"/Users/shirlonbanks/Desktop/BrandonInClassGame.html",
+		"/Users/shirlonbanks/Downloads/jquery-calculator-starter.html",
+		"/Users/shirlonbanks/Downloads/scope2.html",
+		"/Users/shirlonbanks/Downloads/this-unsolved.html",
+		"/Users/shirlonbanks/Downloads/scope-quiz-unsolved.html",
+		"/Users/shirlonbanks/Downloads/lexical-scope2.html",
+		"/Users/shirlonbanks/Downloads/Unsolved/captain-planet-game.html",
+		"/Users/shirlonbanks/Downloads/fridge.html",
+		"/Users/shirlonbanks/gitHubSourceCode/sourcecode/Psychic-Game/index.html",
+		"/Users/shirlonbanks/gitHubSourceCode/sourcecode/Psychic-Game/assets/javascript/game.js",
+		"/Users/shirlonbanks/Downloads/rps-9.html",
+		"/Users/shirlonbanks/gitHubSourceCode/sourcecode/Psychic-Game/game.js",
+		"/Users/shirlonbanks/Desktop/JShelp.html",
+		"/Users/shirlonbanks/Desktop/JS_HW help.js",
+		"/Users/shirlonbanks/Desktop/Creating an Object.js",
+		"/Users/shirlonbanks/gitHubSourceCode/sourcecode/Psychic-Game/index.php",
+		"/Users/shirlonbanks/Desktop/InClassEx_JS.html",
+		"/Users/shirlonbanks/Downloads/rps-2.html",
+		"/Users/shirlonbanks/Desktop/jQuery_Drinks.html",
+		"/Users/shirlonbanks/Downloads/jquery-drinklist-unsolved.html",
+		"/Users/shirlonbanks/Desktop/inclass_JS.html",
+		"/Users/shirlonbanks/Downloads/sandwich-click-unsolved.html",
+		"/Users/shirlonbanks/Desktop/jQueryDOM_Example.html",
+		"/Users/shirlonbanks/gitHubSourceCode/sourcecode/Psychic-Game/composer.json",
+		"/Users/shirlonbanks/Desktop/template.html",
+		"/Users/shirlonbanks/Downloads/my-first-functions-unsolved.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
